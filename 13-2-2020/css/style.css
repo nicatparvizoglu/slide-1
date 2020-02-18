@@ -1,0 +1,20 @@
+body {
+  background: orangered;
+}
+
+.mySlider img {
+  width: 100%;
+  height: 60vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.mySlider .slick-dots li button::before {
+  font-size: 40px;
+  color: #fff;
+}
+
+.mySlider .slick-slide {
+  padding: 20px;
+}
+/*# sourceMappingURL=style.css.map */
